@@ -26,12 +26,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 ![](./screenshot.jpg)
-![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/SteveNoyes/comment-grid)
+- Live Site URL: [Github Pages Live Site](https://stevenoyes.github.io/comment-grid/)
 
 ## My process
 
@@ -81,7 +80,3 @@ Resources:
 - [The Markdown Guide](https://www.markdownguide.org/) - The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
 
 - [Grid Template Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns) - Grid-template-columns defines the number and size of columns in a grid container, while grid-template-rows defines the number and size of rows in the grid container.
-
-# Frontend Mentor - Testimonials grid section solution
-
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
